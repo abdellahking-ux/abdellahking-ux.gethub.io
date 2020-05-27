@@ -1,0 +1,37 @@
+body
+{background-color:rgb(0,190,25);
+}
+#one{
+	text-align:center;
+	font-size:80px;
+	color:white;
+	margin-top:50px;
+}
+#two{
+	text-align:center;
+	font-size:80px;
+	color:white;
+	margin-top:20px;
+}
+#three{
+	text-align:center;
+	font-size:80px;
+		color:white;
+	margin-top:20px;
+}
+li.one{
+margin-left:300px;
+margin-top:200px;
+	list-style:none;
+	font-size:50px;
+	display:inline;
+	text-align:center;
+	margin-right:400px;
+}
+li.two{
+margin-top:200px;
+	list-style:none;
+	font-size:50px;
+	display:inline;
+	text-align:center;
+}
